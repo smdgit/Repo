@@ -2,6 +2,7 @@ $paragraphe: red;
 $h3: aqua;
 $h2: green;
 $width:25%;
+$height:55%;
 
 h1 {
 	color:$paragraphe;
@@ -14,4 +15,8 @@ h2 {
 }
 .tag {
 	width:$width;
+}
+
+.newtag{
+	height:$height;
 }
