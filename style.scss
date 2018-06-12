@@ -4,6 +4,7 @@ $h2: green;
 $width:25%;
 $height:55%;
 $bordercolor:aqua; 
+$whichroad:black;
 
 h1 {
 	color:$paragraphe;
@@ -23,4 +24,8 @@ h2 {
 }
 .lastest {
 	border-color:$bordercolor;
+}
+
+.prune {
+	color:$whichroad;
 }
