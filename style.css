@@ -10,8 +10,8 @@ h1 {
 .newtag {
   height: 55%; }
 
-.lastest {
-  border-color: aqua; }
+.latest {
+  border: aqua solid 1px; }
 
 .prune {
   color: black; }

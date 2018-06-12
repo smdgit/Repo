@@ -3,7 +3,7 @@ $h3: aqua;
 $h2: green;
 $width:25%;
 $height:55%;
-$bordercolor:aqua; 
+$border:aqua solid 1px; 
 $whichroad:black;
 
 h1 {
@@ -23,7 +23,7 @@ h1 {
 	height:$height;
 }
 .lastest {
-	border-color:$bordercolor;
+	border:$border;
 }
 
 .prune {
