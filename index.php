@@ -11,7 +11,6 @@ function dosomething()
         endif;
 
 }
-
 ?>
 
 <?php
