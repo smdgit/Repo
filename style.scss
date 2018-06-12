@@ -3,6 +3,7 @@ $h3: aqua;
 $h2: green;
 $width:25%;
 $height:55%;
+$bordercolor:aqua; 
 
 h1 {
 	color:$paragraphe;
@@ -19,4 +20,7 @@ h2 {
 
 .newtag{
 	height:$height;
+}
+.lastest {
+	border-color:$bordercolor;
 }
