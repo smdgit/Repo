@@ -1,9 +1,9 @@
 h1 {
   color: red; }
 
-h3 {
-  background-color: aqua; }
-
+/* h3 {
+	background-color: $h3;	
+} */
 h2 {
   color: green; }
 
