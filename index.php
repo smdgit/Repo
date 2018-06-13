@@ -14,5 +14,6 @@ function dosomething()
 ?>
 
 <?php
+dosomething();
 echo  'this is to commit';
 ?>
