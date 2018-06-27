@@ -1,19 +1,15 @@
 h1 {
   color: red; }
 
-/* h3 {
-	background-color: $h3;	
-} */
-.tag {
-  width: 25%; }
+h3 {
+  background-color: aqua; }
 
-.newtag {
-  height: 55%; }
+h2 {
+  color: green; }
 
-.latest {
-  border: aqua solid 1px; }
-
-.prune {
-  color: black; }
+p {
+  height: 115px;
+  width: 80%;
+  border: solid 1px #ddd; }
 
 /*# sourceMappingURL=style.css.map */

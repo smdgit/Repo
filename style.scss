@@ -1,31 +1,25 @@
 $paragraphe: red;
 $h3: aqua;
 $h2: green;
-$width:25%;
-$height:55%;
-$border:aqua solid 1px; 
-$whichroad:black;
-
+$carriage_return: 115px;
+$pwidth:80%;
+$pborder:solid 1px #ddd;
+//$pmargin:0 auto;
+// $ptextalign: center;
 h1 {
 	color:$paragraphe;
 }
-/* h3 {
+h3 {
 	background-color: $h3;	
-} */
-// h2 {
-// 	color:$h2;
-// }
-.tag {
-	width:$width;
 }
+h2 {
+	color:$h2;
+}
+p {
+	height:$carriage_return;
+	width:$pwidth;
+	border:$pborder;
+	//margin:$pmargin;
+	// text-align:$ptextalign;
 
-.newtag{
-	height:$height;
-}
-.lastest {
-	border:$border;
-}
-
-.prune {
-	color:$whichroad;
 }
