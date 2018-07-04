@@ -17,5 +17,3 @@ function dosomething()
 dosomething();
 echo  '<br>this is to commit';
 ?>
-
-here we try the ssh mode
