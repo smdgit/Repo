@@ -15,7 +15,7 @@ function dosomething()
 
 <?php
 dosomething();
-echo  '<br>this is to commit';
+echo  '<br>this is to commit';// here we add the comments on line
 ?>
 
-here we try the ssh mode
+here we try the ssh mode modification done
