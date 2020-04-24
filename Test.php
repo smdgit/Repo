@@ -18,4 +18,4 @@ dosomething();
 echo  '<br>this is to commit';
 ?>
 
-here we try the ssh mode
+here we try the ssh mode whazzup dude ??
